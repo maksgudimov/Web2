@@ -8,10 +8,10 @@ div{
     display: block; 
 }
 header{
-    /* display: block; */
+    display: block; 
     height: 130px;
-    /* margin-left: auto;
-    margin-right: auto; */
+    margin-left: auto;
+    margin-right: auto; 
     width: 100%;
     background: -webkit-linear-gradient(left,#eff2d8,#eaff61);
 }
@@ -78,7 +78,6 @@ a{
 .footer_blog{
     background: -webkit-linear-gradient(left,#eff2d8,#eaff61);
     width: 100%;
-    padding: 10px;
     height: 120px;
 }
 .zero{
