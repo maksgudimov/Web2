@@ -43,7 +43,7 @@ header{
     
 }
 .navigator{
-    background-color: #fadede;
+    background: -webkit-linear-gradient(left,#98FB98,#ADFF2F);
     margin: 20px auto;
     max-width: 960px;
     padding-top: 10px;
@@ -70,10 +70,10 @@ a{
     margin-bottom: 20px;
 }
 .giper{
-    background-color: #fadede; 
+    background: -webkit-linear-gradient(left,#98FB98,#ADFF2F); 
 }
 .form{
-    background-color: #fadede;
+    background: -webkit-linear-gradient(left,#98FB98,#ADFF2F);
 }
 .footer_blog{
     background: -webkit-linear-gradient(left,#eff2d8,#eaff61);
