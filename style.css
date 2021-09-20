@@ -34,7 +34,7 @@ header{
     padding-right: 25px;
 }
 .text{
-    background-color: #e5edad;
+    background: -webkit-linear-gradient(left,#eaff61,#eff2d8);
     padding-left: 25px;
     font-family: 'Cormorant Garamond', serif;
     font-weight: 1000;
@@ -73,7 +73,7 @@ a{
     background: -webkit-linear-gradient(left,#98FB98,#ADFF2F); 
 }
 .form{
-    background: -webkit-linear-gradient(left,#98FB98,#ADFF2F);
+     background: -webkit-linear-gradient(left,#98FB98,#ADFF2F);
 }
 .footer_blog{
     background: -webkit-linear-gradient(left,#eff2d8,#eaff61);
